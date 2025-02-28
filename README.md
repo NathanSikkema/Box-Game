@@ -9,10 +9,10 @@ This game is a simple 2D game where the player is trying to dodge all enemies.
 
 ## Controls:
  - Basic Movement: 
-  - W, A, S, D
+   - W, A, S, D
  - Advanced Movement: 
-  - Ctrl, Shift
+   - Ctrl, Shift
  - Navigation:
-  - ESC
+   - ESC
 
 ## Inspired from a YT video.
